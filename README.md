@@ -1,5 +1,5 @@
 # Minecraft Launcher Index
-A list of many different third-party Minecraft java launchers.
+An ever-expanding list of Minecraft game launchers.
 
 # Adding a launcher
 You can either: <br>
